@@ -30,3 +30,4 @@ var risultatoEl = document.getElementById('time'); // h1 in HTML su cui restitui
  }
 
  console.log('inputPc');
+ alert('Ciao Utente ricorda questi numeri : ' + (inputPc));
